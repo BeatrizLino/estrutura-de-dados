@@ -15,10 +15,4 @@ public class Aluno {
 	public String toString() {
 		return this.nome;
 	}
-	
-	public boolean equals(Object o) {
-		Aluno outro = (Aluno)o;
-		return this.nome.equals(outro.nome);
-	}
-	
 }
