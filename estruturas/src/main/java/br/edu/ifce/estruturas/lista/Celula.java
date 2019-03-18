@@ -26,4 +26,6 @@ public class Celula {
 	public Object getElemento() {
 		return elemento;
 	}
+	
+
 }

@@ -9,7 +9,7 @@ public class TesteContemElemento {
 		lista.adiciona("Paulo");
 		
 		System.out.println(lista.contem("Rafael"));
-		System.out.println(lista.contem("Contem"));
+		System.out.println(lista.contem("Beatriz"));
 	}
 
 }
