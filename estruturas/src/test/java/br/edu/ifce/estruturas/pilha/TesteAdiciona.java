@@ -9,7 +9,7 @@ public class TesteAdiciona {
 		
 		Peca peca2 = new Peca();
 		peca2.setNome("Motor");
-		
+	
 		Peca peca3 = new Peca();
 		peca3.setNome("Pneu");
 		
